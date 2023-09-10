@@ -1,2 +1,2 @@
-# C-Game-Engine
-A Game Engine written in C++.
+# C-Game
+A Game written in C++.
